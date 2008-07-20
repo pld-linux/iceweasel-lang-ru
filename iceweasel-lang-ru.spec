@@ -2,12 +2,12 @@
 Summary:	Russian resources for Iceweasel
 Summary(pl.UTF-8):	Rosyjskie pliki językowe dla Iceweasel
 Name:		iceweasel-lang-%{_lang}
-Version:	3.0
-Release:	2
+Version:	3.0.1
+Release:	1
 License:	GPL
 Group:		I18n
 Source0:	http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/%{version}/linux-i686/xpi/%{_lang}.xpi
-# Source0-md5:	5d859ace1156d06efa6ba0a10fcd6af2
+# Source0-md5:	015ae04e908c6d670060a93303284205
 URL:		http://www.mozilla.org/
 BuildRequires:	sed >= 4.0
 BuildRequires:	unzip
